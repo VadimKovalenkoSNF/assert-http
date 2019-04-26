@@ -1,6 +1,6 @@
 {
   "license": "BSD-2-Clause",
-  "name": "@mapbox/assert-http",
+  "name": "@kartotherian/assert-http",
   "repository": {
     "url": "git@github.com:mapbox/assert-http.git",
     "type": "git"
@@ -13,7 +13,7 @@
   "version": "2.0.0",
   "dependencies": {
     "assert-diff": "0.0.4",
-    "mapnik": "3.x || 4.x",
+    "@kartotherian/mapnik": "~3.7.3",
     "mkdirp": "0.3.x",
     "request": "2.78.0",
     "sort-keys": "^1.1.2",
