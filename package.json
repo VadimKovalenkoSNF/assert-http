@@ -13,7 +13,7 @@
   "version": "2.0.0",
   "dependencies": {
     "assert-diff": "0.0.4",
-    "@kartotherian/mapnik": "~3.7.3",
+    "mapnik": "~4.5.9",
     "mkdirp": "0.3.x",
     "request": "2.78.0",
     "sort-keys": "^1.1.2",
